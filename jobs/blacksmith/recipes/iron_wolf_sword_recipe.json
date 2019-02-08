@@ -1,0 +1,30 @@
+{
+   "type": "recipe",
+   "effort": 35,
+   "work_units": 5,
+   "recipe_name": "i18n(iron_wolf_sword:entities.weapons.iron_wolf_sword.display_name)",
+   "description": "i18n(iron_wolf_sword:entities.weapons.iron_wolf_sword.description)",
+   "flavor": "",
+   "portrait": "/iron_wolf_sword/entities/weapons/iron_wolf_sword/iron_wolf_sword.png",
+   "workshop": "stonehearth:blacksmith:workbench",
+   "level_requirement": 6,
+   "ingredients": [
+      {
+         "uri": "stonehearth:refined:silver_ingot",
+         "count": 3
+      },
+      {
+         "uri": "stonehearth:refined:steel_ingot",
+         "count": 2
+      },
+      {
+         "material": "leather resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "iron_wolf_sword:weapon:iron_wolf_sword"
+      }
+   ]
+}

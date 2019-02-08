@@ -1,0 +1,11 @@
+{
+   "craftable_recipes": {
+      "weapons": {
+         "recipes": {
+            "iron_wolf_sword": {
+               "recipe": "file(iron_wolf_sword_recipe.json)"
+            }
+         }
+      }
+   }
+}

@@ -1,0 +1,34 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(ransom_soup_serving.qb)"
+            ]
+         }
+      }
+   },
+   "entity_data": {
+      "stonehearth:item": {
+         "category": "food",
+         "destroy_on_uncarry": true
+      },
+      "stonehearth:food": {
+         "stonehearth:sitting_on_chair": {
+            "satisfaction": 34
+         },
+         "default": {
+            "satisfaction": 30
+         },
+         "quality": 6
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(iron_wolf_sword:entities.food.ransom_soup.ransom_soup_serving.display_name)",
+         "description": "",
+         "material_tags": ["food", "meat"],
+         "subject_override": "iron_wolf_sword:food:ransom_soup"
+      }
+   }
+}

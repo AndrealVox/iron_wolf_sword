@@ -1,0 +1,48 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "layer": "armor",
+            "transparent": "false",
+            "models": [
+               "file(ninja_outfit.qb)"
+            ]
+         }
+      },
+      "stonehearth:entity_forms": {
+         "iconic_form": "file(ninja_outfit_iconic.json)"
+      },
+      "stonehearth:equipment_piece": {
+         "render_type": "merge_with_model",
+         "slot": "torso",
+         "ilevel": 6,
+         "roles": ["archer_job"],
+         "required_job_level": 3,
+         "equip_effect": "stonehearth:effects:weapon_level_up"
+      }
+   },
+   "entity_data": {
+      "stonehearth:combat:armor_data": {
+         "base_damage_reduction": 6
+      },
+      "stonehearth:net_worth": {
+         "value_in_gold": 62,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": true,
+            "shopkeeper_level": 2,
+            "shopkeeper_type": "caravan"
+         }
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(iron_wolf_sword:entities.armor.ninja_outfit.display_name)",
+         "description": "i18n(iron_wolf_sword:entities.armor.ninja_outfit.description)",
+         "icon": "file(ninja_outfit.png)",
+         "category": "armor",
+         "material_tags": ["armor", "stockpile_equipment"]
+      }
+   }
+}

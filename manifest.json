@@ -1,0 +1,27 @@
+{
+   "info": {
+      "name": "The Game Plague",
+      "namespace": "iron_wolf_sword",
+      "version": 3,
+      "steam_file_id": "1644434725"
+   },
+   "default_locale": "en",
+   "aliases": {
+      "armor:ninja_outfit": "file(entities/armor/ninja_outfit)",
+      "blacksmith:recipe": "file(jobs/blacksmith/recipes/recipes.json)",
+      "build:brushes": "file(data/build/building_brushes.json)",
+      "cook:recipe": "file(jobs/cook/recipes/recipes.json)",
+      "food:ransom_soup": "file(entities/food/ransom_soup/ransom_soup)",
+      "food:ransom_soup_serving": "file(entities/food/ransom_soup/ransom_soup_serving)",
+      "weapon:iron_wolf_sword": "file(entities/weapons/iron_wolf_sword)",
+      "weaver:recipe": "file(jobs/weaver/recipes/recipes.json)"
+   },
+   "mixintos": {
+      "stonehearth/jobs/blacksmith/recipes/recipes.json": "iron_wolf_sword:blacksmith:recipe",
+      "stonehearth/jobs/cook/recipes/recipes.json": "iron_wolf_sword:cook:recipe",
+      "stonehearth/jobs/weaver/recipes/recipes.json": "iron_wolf_sword:weaver:recipe"
+   },
+   "overrides": {},
+   "components": {},
+   "controllers": {}
+}

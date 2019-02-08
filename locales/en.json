@@ -1,0 +1,27 @@
+{
+   "entities": {
+      "weapons": {
+         "iron_wolf_sword": {
+            "display_name": "Legendary Sword of Iron Wolf",
+            "description": "This blade is imbued with the forces of Iron Wolf"
+         }
+      },
+      "armor": {
+         "ninja_outfit": {
+            "display_name": "Ninja Outfit",
+            "description": "A Ninja Outfit for your Archer"
+         }
+      },
+      "food": {
+         "ransom_soup": {
+            "ransom_soup": {
+               "display_name": "Ransom Soup",
+               "description": "The most delicious soup you have ever tasted"
+            },
+            "ransom_soup_serving": {
+               "display_name": "Ransom Soup Serving"
+            }
+         }
+      }
+   }
+}

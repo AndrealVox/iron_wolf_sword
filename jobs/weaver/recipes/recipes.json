@@ -1,0 +1,11 @@
+{
+   "craftable_recipes": {
+      "clothing_armor": {
+         "recipes": {
+            "ninja_outfit": {
+               "recipe": "file(ninja_outfit_recipe.json)"
+            }
+         }
+      }
+   }
+}

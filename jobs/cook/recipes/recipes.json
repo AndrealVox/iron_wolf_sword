@@ -1,0 +1,11 @@
+{
+   "craftable_recipes": {
+      "chefs_specials": {
+         "recipes": {
+            "ransom_soup": {
+               "recipe": "file(ransom_soup_recipe.json)"
+            }
+         }
+      }
+   }
+}

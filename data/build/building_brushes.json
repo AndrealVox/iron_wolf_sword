@@ -1,0 +1,600 @@
+{
+   "type": "index",
+   "always_available": {
+      "wood resource": {
+         "colors": {
+            "#A59465": {
+               "display_name": "Sandal",
+               "ordinal": 1
+            },
+            "#958455": {
+               "display_name": "Muesli",
+               "ordinal": 2
+            },
+            "#86764A": {
+               "display_name": "Shadow",
+               "ordinal": 3
+            },
+            "#C0BBA8": {
+               "display_name": "Ash",
+               "ordinal": 4
+            },
+            "#A59F8B": {
+               "display_name": "Napa",
+               "ordinal": 5
+            },
+            "#928C76": {
+               "display_name": "Heathered Grey",
+               "ordinal": 6
+            },
+            "#65573A": {
+               "display_name": "Tobacco Brown",
+               "ordinal": 7
+            },
+            "#4E442F": {
+               "display_name": "Punga",
+               "ordinal": 8
+            },
+            "#403521": {
+               "display_name": "Clinker",
+               "ordinal": 9
+            },
+            "#927923": {
+               "display_name": "Lemon Ginger",
+               "ordinal": 10
+            },
+            "#786322": {
+               "display_name": "Yukon Gold",
+               "ordinal": 11
+            },
+            "#6E5B21": {
+               "display_name": "Antique Brass",
+               "ordinal": 12
+            },
+            "#5A3D2D": {
+               "display_name": "Cioccolato",
+               "ordinal": 13
+            },
+            "#412B1F": {
+               "display_name": "Morocco Brown",
+               "ordinal": 14
+            },
+            "#302118": {
+               "display_name": "Bistre",
+               "ordinal": 15
+            },
+            "#332B1F": {
+               "display_name": "Cocoa Brown",
+               "ordinal": 16
+            },
+            "#806B27": {
+               "display_name": "Pesto",
+               "ordinal": 17
+            },
+            "#9e7969": {
+               "display_name": "Peach Light",
+               "ordinal": 1
+            },
+            "#977161": {
+               "display_name": "Peach",
+               "ordinal": 1
+            },
+            "#886758": {
+               "display_name": "Peach Dark",
+               "ordinal": 1
+            },
+            "#40664a": {
+               "display_name": "Oak leaf light",
+               "ordinal": 1
+            },
+            "#37563f": {
+               "display_name": "Oak leaf",
+               "ordinal": 1
+            },
+            "#304435": {
+               "display_name": "Oak leaf dark",
+               "ordinal": 1
+            },
+            "#964d3b": {
+               "display_name": "Robin Light",
+               "ordinal": 1
+            },
+            "#823e2d": {
+               "display_name": "Robin",
+               "ordinal": 1
+            },
+            "#643124": {
+               "display_name": "Robin Dark",
+               "ordinal": 1
+            }
+         }
+      },
+      "clay_brick resource": {
+         "colors": {
+            "#C0BBA7": {
+               "display_name": "Light Ash",
+               "ordinal": 1
+            },
+            "#B0AB9F": {
+               "display_name": "Cloudy",
+               "ordinal": 2
+            },
+            "#A5A199": {
+               "display_name": "Light Mountain Mist",
+               "ordinal": 3
+            },
+            "#A19D97": {
+               "display_name": "Mountain Mist",
+               "ordinal": 4
+            },
+            "#979492": {
+               "display_name": "Dark Mountain Mist",
+               "ordinal": 5
+            },
+            "#DCCAA3": {
+               "display_name": "Raffia",
+               "ordinal": 6
+            },
+            "#D0B884": {
+               "display_name": "Winter Hazel",
+               "ordinal": 7
+            },
+            "#C1A975": {
+               "display_name": "Ecru",
+               "ordinal": 8
+            },
+            "#B5A37B": {
+               "display_name": "Pavlova",
+               "ordinal": 9
+            },
+            "#864E31": {
+               "display_name": "Korma",
+               "ordinal": 10
+            },
+            "#7A452A": {
+               "display_name": "Copper Canyon",
+               "ordinal": 11
+            },
+            "#693921": {
+               "display_name": "New Amber",
+               "ordinal": 12
+            },
+            "#592E18": {
+               "display_name": "Baker's Chocolate",
+               "ordinal": 13
+            },
+            "#A7855A": {
+               "display_name": "Fawn",
+               "ordinal": 14
+            },
+            "#9E7F56": {
+               "display_name": "Coffee Cake",
+               "ordinal": 15
+            },
+            "#97775E": {
+               "display_name": "Roserock",
+               "ordinal": 16
+            },
+            "#537070": {
+               "display_name": "Sage Light",
+               "ordinal": 1
+            },
+            "#4a6363": {
+               "display_name": "Sage",
+               "ordinal": 1
+            },
+            "#425858": {
+               "display_name": "Sage Dark",
+               "ordinal": 1
+            },
+            "#5483bd": {
+               "display_name": "Oasis Light",
+               "ordinal": 1
+            },
+            "#4f7cb3": {
+               "display_name": "Oasis",
+               "ordinal": 1
+            },
+            "#4771a4": {
+               "display_name": "Oasis Dark",
+               "ordinal": 1
+            },
+            "#ac6863": {
+               "display_name": "Prickly Pear Light",
+               "ordinal": 1
+            },
+            "#a2625d": {
+               "display_name": "Prickly Pear",
+               "ordinal": 1
+            },
+            "#965a4d": {
+               "display_name": "Prickly Pear Dark",
+               "ordinal": 1
+            },
+            "#a9a597": {
+               "display_name": "Mesa",
+               "ordinal": 16
+            },
+            "#afaa9d": {
+               "display_name": "Mesa Light",
+               "ordinal": 16
+            },
+            "#a38b7c": {
+               "display_name": "Pink Rock",
+               "ordinal": 16
+            },
+            "#bba991": {
+               "display_name": "Hillside Dark",
+               "ordinal": 16
+            },
+            "#c4b49a": {
+               "display_name": "Hillside light",
+               "ordinal": 16
+            },
+            "#807148": {
+               "display_name": "Claypit",
+               "ordinal": 16
+            },
+            "#918155": {
+               "display_name": "Claypit light",
+               "ordinal": 16
+            },
+            "#cbbd96": {
+               "display_name": "Sand",
+               "ordinal": 16
+            },
+            "#d2c6a3": {
+               "display_name": "Sand Fade",
+               "ordinal": 16
+            },
+            "#d8ceae": {
+               "display_name": "Sand Light",
+               "ordinal": 16
+            }
+         }
+      },
+      "stone resource": {
+         "colors": {
+            "#464D53": {
+               "display_name": "Tuna",
+               "ordinal": 1
+            },
+            "#4E555C": {
+               "display_name": "Trout",
+               "ordinal": 2
+            },
+            "#2C3339": {
+               "display_name": "Gunmetal",
+               "ordinal": 3
+            },
+            "#575E67": {
+               "display_name": "Shuttle Grey",
+               "ordinal": 4
+            },
+            "#676D74": {
+               "display_name": "Mid Grey",
+               "ordinal": 5
+            },
+            "#172F4A": {
+               "display_name": "Regal Blue",
+               "ordinal": 6
+            },
+            "#244E7D": {
+               "display_name": "Bahama Blue",
+               "ordinal": 7
+            },
+            "#224165": {
+               "display_name": "Dark Regal Blue",
+               "ordinal": 8
+            },
+            "#604B42": {
+               "display_name": "Cork",
+               "ordinal": 9
+            },
+            "#644F46": {
+               "display_name": "Congo Brown",
+               "ordinal": 10
+            },
+            "#69534A": {
+               "display_name": "Dark Congo Brown",
+               "ordinal": 11
+            },
+            "#8E8260": {
+               "display_name": "Granite Green",
+               "ordinal": 12
+            },
+            "#9B8F6D": {
+               "display_name": "Pale Oyster",
+               "ordinal": 13
+            },
+            "#A69C7F": {
+               "display_name": "Hillary",
+               "ordinal": 14
+            },
+            "#542929": {
+               "display_name": "Light Volcano",
+               "ordinal": 15
+            },
+            "#4C2424": {
+               "display_name": "Volcano",
+               "ordinal": 16
+            },
+            "#3B1919": {
+               "display_name": "Rustic Red",
+               "ordinal": 17
+            },
+             "#6B6860": {
+               "display_name": "Mountain Roots",
+               "ordinal": 1
+            },
+            "#76726B": {
+               "display_name": "Mountainside Dark",
+               "ordinal": 1
+            },
+            "#82807b": {
+               "display_name": "Mountainside Medium",
+               "ordinal": 1
+            },
+            "#918D86": {
+               "display_name": "Mountainside Light",
+               "ordinal": 1
+            },
+             "#B3B0AA": {
+               "display_name": "Mountaintop",
+               "ordinal": 1
+            },
+            "#C1C0BB": {
+               "display_name": "Summit",
+               "ordinal": 1
+            },
+            "#75B370": {
+               "display_name": "Hilltop",
+               "ordinal": 1
+            },
+            "#87C076": {
+               "display_name": "Hilltop Fade",
+               "ordinal": 1
+            },
+            "#99CE7C": {
+               "display_name": "Hilltop Edge",
+               "ordinal": 1
+            },
+            "#807147": {
+               "display_name": "Hillside Dark",
+               "ordinal": 1
+            },
+            "#918154": {
+               "display_name": "Hillside Light",
+               "ordinal": 1
+            },
+            "#8BB270": {
+               "display_name": "Grassland",
+               "ordinal": 1
+            },
+            "#9DBF76": {
+               "display_name": "Grassland Fade",
+               "ordinal": 1
+            },
+             "#AFCC7C": {
+               "display_name": "Grassland Edge",
+               "ordinal": 1
+            },
+            "#A29161": {
+               "display_name": "Earth Edge",
+               "ordinal": 1
+            },
+            "#B3A16E": {
+               "display_name": "Earth",
+               "ordinal": 1
+            }
+         }
+      }
+   },
+   "voxel": {
+      "wood resource": {
+         "colors": {}
+      },
+      "clay_brick resource": {
+         "colors": {}
+      },
+      "stone resource": {
+         "colors": {}
+      },
+      "-no material-": {
+         "colors": {
+            "#010101": {}
+         }
+      }
+   },
+   "pattern": {
+      "wood resource": {
+         "patterns": {
+            "stonehearth:build:brushes:pattern:wood_dark_diagonal": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/wood_diagonal_dark.png",
+               "display_name": "A Pattern of Muesli and Sandal"
+            }
+         }
+      },
+      "stone resource": {
+         "patterns": {
+            "stonehearth:build:brushes:pattern:brick_tiled": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/brick_tiled.png",
+               "display_name": "A Pattern of Congo Brown, Dark Congo Brown, and Cork"
+            },
+            "stonehearth:build:brushes:pattern:cobblestone": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/cobblestone.png",
+               "display_name": "A Pattern of Hillary, Granite Green, and Pale Oyster"
+            },
+            "stonehearth:build:brushes:pattern:slate_blue_checkered": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/slate_blue_checkered.png",
+               "display_name": "A Pattern of Shuttle Grey, and Mid Grey"
+            }
+         }
+      }
+   },
+   "wall": {
+      "wood resource": {
+         "patterns": {
+            "stonehearth:build:brushes:wall:plastered_wall": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/plastered_wall.png",
+               "display_name": "A Pattern of Napa, and Ash"
+            },
+            "stonehearth:build:brushes:wall:wooden_wall": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/wooden_wall.png",
+               "display_name": "A Pattern of Punga, and Tobacco Brown"
+            }
+         },
+         "colors": {}
+      },
+      "clay_brick resource": {
+         "colors": {},
+         "patterns": {
+            "stonehearth:build:brushes:wall:gray_clay_wall": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/gray_clay_wall.png",
+               "display_name": "A Pattern of Light Mountain Mist, Mountain Mist, Dark Mountain Mist, and Cloudy"
+            },
+            "stonehearth:build:brushes:wall:red_clay_wall": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/red_clay_wall.png",
+               "display_name": "A Pattern of Baker's Chocolate, and New Amber"
+            },
+            "stonehearth:build:brushes:wall:gold_clay_wall": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/gold_clay_wall.png",
+               "display_name": "A Pattern of Pavlova, Raffia, Winter Hazel, and Ecru"
+            },
+            "stonehearth:build:brushes:wall:tan_clay_wall": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/clay_wall_tan.png",
+               "display_name": "A pattern of Roserock, Coffee Cake, and Fawn"
+            },
+            "stonehearth:build:brushes:wall:clay_wall_sage": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/clay_wall_sage.png",
+               "display_name": "A pattern of shades of Sage"
+            },
+            "stonehearth:build:brushes:wall:clay_wall_oasis": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/clay_wall_oasis.png",
+               "display_name": "A pattern made up of shades of Oasis"
+            },
+            "stonehearth:build:brushes:wall:clay_wall_prickly_pear": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/clay_wall_prickly_pear.png",
+               "display_name": "A pattern made up of shades of Prickly Pear"
+            }
+         }
+      },
+      "stone resource": {
+         "patterns": {
+            "stonehearth:build:brushes:wall:cobblestone_wall": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/cobblestone_wall.png",
+               "display_name": "A Pattern of Tuna, and Trout"
+            }
+         },
+         "colors": {}
+      }
+   },
+   "roof": {
+      "clay_brick resource": {
+         "patterns": {
+            "stonehearth:build:brushes:roof:clay_slat_roof": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/clay_slat_roof.png",
+               "display_name": "A roof made of Light Ash colored clay and Cocoa Brown wood",
+               "type": "flat"
+            },
+            "stonehearth:build:brushes:roof:golden_clay_slat_roof": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/golden_clay_slat_roof.png",
+               "display_name": "A roof made of Raffia colored clay and Cocoa Brown wood",
+               "type": "flat"
+            },
+            "stonehearth:build:brushes:roof:red_clay_slat_roof": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/red_clay_slat_roof.png",
+               "display_name": "A roof made of Korma colored clay and Cocoa Brown wood",
+               "type": "flat"
+            },
+            "stonehearth:build:brushes:roof:slat_roof_sage": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/slat_roof_sage.png",
+               "display_name": "A roof made of Sage colored clay, and Cocoa Brown wood",
+               "type": "flat"
+            },
+            "stonehearth:build:brushes:roof:slat_roof_oasis": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/slat_roof_oasis.png",
+               "display_name": "A roof made of Oasis colored clay, and Cocoa Brown wood",
+               "type": "flat"
+            },
+            "stonehearth:build:brushes:roof:slat_roof_prickly_pear": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/slat_roof_prickly_pear.png",
+               "display_name": "A roof made of Prickly Pear colored clay, and Cocoa Brown wood",
+               "type": "flat"
+            },
+            "stonehearth:build:brushes:roof:red_clay_peaked_roof": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/red_clay_peaked_roof.png",
+               "display_name": "A peaked roof made of Baker's Chocolate and New Amber colored clay with Bistre colored wood",
+               "type": "peaked"
+            }
+         }
+      },
+      "wood resource": {
+         "patterns": {
+            "stonehearth:build:brushes:roof:thatch_peaked_roof": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/thatch_peaked_roof.png",
+               "display_name": "A roof made of Pesto, Lemon Ginger, Yukon Gold, and Antique Brass colored wood",
+               "type": "peaked"
+            },
+            "stonehearth:build:brushes:roof:wooden_peaked_roof": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/wooden_peaked_roof.png",
+               "display_name": "A roof made of Cioccolato, Bistre, and Morocco Brown colored wood",
+               "type": "peaked"
+            },
+             "stonehearth:build:brushes:roof:peaked_roof_robin": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/peaked_roof_robin.png",
+               "display_name": "A wooden roof made up of shades of Robin",
+               "type": "peaked"
+            },
+            "stonehearth:build:brushes:roof:peaked_roof_oak_leaf": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/peaked_roof_oak_leaf.png",
+               "display_name": "A wooden roof made up of shades of Oak Leaf",
+               "type": "peaked"
+            },
+            "stonehearth:build:brushes:roof:peaked_roof_peach": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/peaked_roof_peach.png",
+               "display_name": "A wooden roof made up of shades of Peach",
+               "type": "peaked"
+            },
+            "stonehearth:build:brushes:roof:peaked_roof_peach_fancy": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/peaked_roof_peach_fancy.png",
+               "display_name": "A wooden roof made up of punga, and shades of Peach",
+               "type": "peaked"
+            }
+         }
+      },
+      "stone resource": {
+         "patterns": {
+            "stonehearth:build:brushes:roof:blue_slate_peaked_roof": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/blue_slate_peaked_roof.png",
+               "display_name": "A roof made of Bahama Blue, Regal Blue, and Dark Regal Blue colored stone",
+               "type": "peaked"
+            },
+            "stonehearth:build:brushes:roof:red_slate_peaked_roof": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/red_slate_peaked_roof.png",
+               "display_name": "A roof made of Light Volcano, Volcano, and Rustic Red colored stone",
+               "type": "peaked"
+            },
+            "stonehearth:build:brushes:roof:castle_roof": {
+               "icon": "/stonehearth/ui/game/modes/build_mode/building_designer_2/images/brushes/castle_roof.png",
+               "display_name": "A roof made of Tuna, Shuttle Grey, and Mid Grey colored stone",
+               "type": "flat"
+            }
+         }
+      }
+   },
+   "column": {
+      "wood resource": {
+         "colors": {},
+         "default_color": "#332B1F"
+      },
+      "clay_brick resource": {
+         "colors": {},
+         "default_color": "#C0BBA7"
+      },
+      "stone resource": {
+         "colors": {},
+         "default_color": "#644F46"
+      }
+   }
+}

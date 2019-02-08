@@ -1,0 +1,30 @@
+{
+   "type": "recipe",
+   "effort": 28,
+   "work_units": 3,
+   "recipe_name": "i18n(iron_wolf_sword:entities.food.ransom_soup.ransom_soup.display_name)",
+   "description": "i18n(iron_wolf_sword:entities.food.ransom_soup.ransom_soup.description)",
+   "flavor": "",
+   "portrait": "/iron_wolf_sword/entities/food/ransom_soup/ransom_soup/ransom_soup.png",
+   "level_requirement": 3,
+   "workshop": "stonehearth:cook:oven",
+   "ingredients": [
+      {
+         "uri": "stonehearth:food:poyo_meat",
+         "count": 1
+      },
+      {
+         "uri": "stonehearth:food:carrot:carrot_basket",
+         "count": 1
+      },
+      {
+         "uri": "stonehearth:food:wheat:wheat_bale",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "iron_wolf_sword:food:ransom_soup"
+      }
+   ]
+}
