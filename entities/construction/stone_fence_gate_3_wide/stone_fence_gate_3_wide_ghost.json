@@ -1,0 +1,44 @@
+{
+    "type": "entity",
+    "mixins": [
+      "stonehearth:mixins:portals:single_door:ghost",
+      "stonehearth:mixins:placed_object"
+   ],
+    "components": {
+        "model_variants": {
+            "default": {
+                "models": [
+               "file(stone_fence_gate_3_wide.qb)"
+            ]
+            }
+        },
+        "stonehearth:fixture": {
+            "valign": "bottom",
+            "cursor": "stonehearth:cursors:create_door",
+            "margin": {
+                "left": 1,
+                "right": 1,
+                "top": 1
+            },
+            "bounds": {
+                "min": {
+                    "x": -1,
+                    "y": 0
+                },
+                "max": {
+                    "x": 2,
+                    "y": 4
+                }
+            }
+        }
+    },
+    "entity_data": {
+        "stonehearth:catalog": {
+            "display_name": "Cobblestone Fence Gate(3 Wide)",
+            "description": "Lets people through your fence.",
+            "icon": "file(stone_fence_gate_3_wide.png)",
+            "category": "construction",
+            "material_tags": ["stone", "defense", "portal", "crafted", "gate", "stockpile_defense"]
+        }
+    }
+}

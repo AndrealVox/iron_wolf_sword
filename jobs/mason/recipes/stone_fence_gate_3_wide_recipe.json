@@ -1,0 +1,22 @@
+{
+    "type": "recipe",
+    "effort": 5,
+    "work_units": 3,
+    "recipe_name": "Cobblestone Fence Gate(3 Wide)",
+    "description": "Lets people through your fence.",
+    "flavor": "This decorative gate protects your fences from being broken.",
+    "portrait": "/iron_wolf_sword/entities/construction/stone_fence_gate_3_wide/stone_fence_gate_3_wide.png",
+    "workshop": "stonehearth:mason:workbench",
+    "level_requirement": 1,
+    "ingredients": [
+        {
+            "material": "stone resource",
+            "count": 2
+      }
+   ],
+    "produces": [
+        {
+            "item": "iron_wolf_sword:construction:stone_fence_gate_3_wide"
+      }
+   ]
+}

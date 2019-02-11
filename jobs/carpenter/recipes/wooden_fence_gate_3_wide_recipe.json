@@ -1,0 +1,22 @@
+{
+   "type": "recipe",
+   "effort": 5,
+   "work_units": 3,
+   "recipe_name": "Picket Fence Gate(3 Wide)",
+   "description": "Lets people through your fence.",
+   "flavor": "This decorative gate protects your fences from being broken.",
+   "portrait": "/iron_wolf_sword/entities/construction/wooden_fence_gate_3_wide/wooden_fence_gate_3_wide.png",
+   "workshop": "stonehearth:carpenter:workbench",
+   "level_requirement": 1,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "iron_wolf_sword:construction:wooden_fence_gate_3_wide"
+      }
+   ]
+}

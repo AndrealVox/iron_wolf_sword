@@ -14,12 +14,21 @@
       "food:ransom_soup": "file(entities/food/ransom_soup/ransom_soup)",
       "food:ransom_soup_serving": "file(entities/food/ransom_soup/ransom_soup_serving)",
       "weapon:iron_wolf_sword": "file(entities/weapons/iron_wolf_sword)",
-      "weaver:recipe": "file(jobs/weaver/recipes/recipes.json)"
+      "weaver:recipe": "file(jobs/weaver/recipes/recipes.json)",
+      "construction:clay_fence_gate_3_wide": "file(entities/construction/clay_fence_gate_3_wide)",
+      "jobs:potter:recipes": "file(jobs/potter/recipes/recipes.json)",
+      "construction:stone_fence_gate_3_wide": "file(entities/construction/stone_fence_gate_3_wide)",
+      "jobs:mason:recipes": "file(jobs/mason/recipes/recipes.json)",
+      "construction:wooden_fence_gate_3_wide": "file(entities/construction/wooden_fence_gate_3_wide)",
+      "jobs:carpenter:recipes": "file(jobs/carpenter/recipes/recipes.json)"
    },
    "mixintos": {
       "stonehearth/jobs/blacksmith/recipes/recipes.json": "iron_wolf_sword:blacksmith:recipe",
       "stonehearth/jobs/cook/recipes/recipes.json": "iron_wolf_sword:cook:recipe",
-      "stonehearth/jobs/weaver/recipes/recipes.json": "iron_wolf_sword:weaver:recipe"
+      "stonehearth/jobs/weaver/recipes/recipes.json": "iron_wolf_sword:weaver:recipe",
+      "/stonehearth/jobs/potter/recipes/recipes.json": "iron_wolf_sword:jobs:potter:recipes",
+      "/stonehearth/jobs/mason/recipes/recipes.json": "iron_wolf_sword:jobs:mason:recipes",
+      "/stonehearth/jobs/carpenter/recipes/recipes.json": "iron_wolf_sword:jobs:carpenter:recipes"
    },
    "overrides": {},
    "components": {},

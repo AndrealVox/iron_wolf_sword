@@ -1,0 +1,11 @@
+{
+    "craftable_recipes": {
+        "building_parts": {
+            "recipes": {
+                "wooden_fence_gate_3_wide": {
+                    "recipe": "file(wooden_fence_gate_3_wide_recipe.json)"
+                }
+            }
+        }
+    }
+}
